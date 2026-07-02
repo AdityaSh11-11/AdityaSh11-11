@@ -168,7 +168,7 @@ I'm always open to collaborating on innovative projects and exploring new techno
 
 # Favorite Quote
 
-> Without data, you're just another person with an opinion.
+> Data is a precious thing and will last longer than the systems themselves.
 
 ---
 
