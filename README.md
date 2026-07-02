@@ -28,7 +28,7 @@
 ---
 
 # About Me
-I'm passionate about **Data Analytics**, **Machine Learning**, and **Python Development**. I enjoy solving real-world problems using data, building intelligent applications, and continuously expanding my skills in AI, Cloud Computing, and MLOps.
+I'm passionate about **Data Analytics**, **Machine Learning** and **Python Development**. I enjoy solving real-world problems using data, building intelligent applications and continuously expanding my skills in AI, Cloud Computing and MLOps.
 
 I'm always open to collaborating on innovative projects and exploring new technologies.
         
@@ -40,11 +40,11 @@ I'm always open to collaborating on innovative projects and exploring new techno
 <a href="https://www.linkedin.com/in/sharma11aditya/">
 <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
 </a>
-<br>
+<hr>
 <a href="mailto:sharmaditya0011work@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" height="50"/>
 </a>
-<br>
+<hr>
 <a href="https://github.com/AdityaSh11-11">
 <img src="https://skillicons.dev/icons?i=github" height="50"/>
 </a>
