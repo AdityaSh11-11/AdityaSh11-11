@@ -82,7 +82,7 @@ I'm passionate about transforming raw data into meaningful insights and building
 </p>
 
 ---
-![Snake animation](https://github.com/AdityaSh11-11/AdityaSh11-11/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/AdityaSh11-11/Aditya-Sharma/blob/output/github-contribution-grid-snake.svg)
 ---
 
 ## Featured Projects
