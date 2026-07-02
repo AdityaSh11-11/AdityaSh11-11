@@ -1,4 +1,3 @@
-````markdown
 <!-- ========================================= -->
 <!--              Animated Banner              -->
 <!-- ========================================= -->
@@ -36,7 +35,6 @@
 
 # 💫 About Me
 
-```python
 class AdityaSharma:
 
     def __init__(self):
@@ -65,7 +63,6 @@ class AdityaSharma:
         ]
 
         self.goal = "Building AI solutions that solve real-world problems."
-````
 
 ---
 
@@ -89,7 +86,7 @@ class AdityaSharma:
 
 ---
 
-# 💻 Tech Stack
+# Tech Stack
 
 <p align="center">
 
@@ -97,7 +94,7 @@ class AdityaSharma:
 
 </p>
 
-### 📊 Data Analytics
+### Data Analytics
 
 * Pandas
 * NumPy
@@ -107,7 +104,7 @@ class AdityaSharma:
 * Power BI
 * Tableau
 
-### 🤖 Machine Learning
+### Machine Learning
 
 * Scikit-Learn
 * TensorFlow
@@ -119,7 +116,7 @@ class AdityaSharma:
 
 ---
 
-# 📊 GitHub Metrics Dashboard
+# GitHub Metrics Dashboard
 
 <p align="center">
 
@@ -131,7 +128,7 @@ class AdityaSharma:
 
 ---
 
-# 📈 GitHub Statistics
+# GitHub Statistics
 
 <p align="center">
 
@@ -143,7 +140,7 @@ class AdityaSharma:
 
 ---
 
-# 🔥 GitHub Streak
+# GitHub Streak
 
 <p align="center">
 
@@ -153,7 +150,7 @@ class AdityaSharma:
 
 ---
 
-# 📈 Contribution Activity Graph
+# Contribution Activity Graph
 
 <p align="center">
 
@@ -163,7 +160,7 @@ class AdityaSharma:
 
 ---
 
-# 🏆 GitHub Trophies
+# GitHub Trophies
 
 <p align="center">
 
@@ -173,7 +170,7 @@ class AdityaSharma:
 
 ---
 
-# 🐍 Contribution Snake
+# Contribution Snake
 
 <p align="center">
 
@@ -185,7 +182,7 @@ class AdityaSharma:
 
 ---
 
-# 📊 WakaTime Statistics
+# WakaTime Statistics
 
 <!--START_SECTION:waka-->
 
@@ -193,7 +190,7 @@ class AdityaSharma:
 
 ---
 
-# 📝 Latest Blog Posts
+# Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 
@@ -201,7 +198,7 @@ class AdityaSharma:
 
 ---
 
-# ⚡ Recent GitHub Activity
+# Recent GitHub Activity
 
 <!--START_SECTION:activity-->
 
@@ -209,7 +206,7 @@ class AdityaSharma:
 
 ---
 
-# 🚀 Featured Projects
+# Featured Projects
 
 | Project                      | Description                     |
 | ---------------------------- | ------------------------------- |
@@ -222,7 +219,7 @@ class AdityaSharma:
 
 ---
 
-# 🎯 2026 Goals
+# 2026 Goals
 
 * ✅ Become an Expert ML Engineer
 * ✅ Master MLOps
@@ -235,14 +232,13 @@ class AdityaSharma:
 
 ---
 
-# 💡 Favorite Quote
+# Favorite Quote
 
-> *"Without data, you're just another person with an opinion."*
-> **— W. Edwards Deming**
+> Without data, you're just another person with an opinion.
 
 ---
 
-# ❤️ Support My Work
+# Support My Work
 
 <p align="center">
 
