@@ -46,7 +46,7 @@ I'm always open to collaborating on innovative projects and exploring new techno
 </a>
 <hr>
 <a href="https://github.com/AdityaSh11-11">
-<img src="https://skillicons.dev/icons?i=github" height="50"/> Github 
+<img src="https://skillicons.dev/icons?i=github" height="50"/>
 </a>
 
 </p>
@@ -57,7 +57,7 @@ I'm always open to collaborating on innovative projects and exploring new techno
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,mysql,postgres,mongodb,docker,git,github,linux,vscode,anaconda&perline=6"/>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,mysql,postgres,git,github&perline=6"/>
 
 </p>
 
