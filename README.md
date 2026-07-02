@@ -80,9 +80,7 @@ I'm passionate about transforming raw data into meaningful insights and building
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdityaSh11-11&theme=tokyo-night&hide_border=true" />
 </p>
-
----
-![Snake animation](https://github.com/AdityaSh11-11/Aditya-Sharma/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/AdityaSh11-11/Aditya-Sharma/blob/output/github-contribution-grid-snake-dark.svg)
 ---
 
 ## Featured Projects
