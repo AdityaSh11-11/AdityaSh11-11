@@ -79,12 +79,8 @@ I'm always open to collaborating on innovative projects and exploring new techno
 # GitHub Metrics Dashboard
 
 <p align="center">
-
-<img src="./github-metrics.svg" width="100%"/>
-
+  <img src="https://raw.githubusercontent.com/AdityaSh11-11/AdityaSh11-11/main/github-metrics.svg">
 </p>
-
-> Configure the **lowlighter/metrics** GitHub Action to generate `github-metrics.svg`.
 
 ---
 
@@ -124,9 +120,7 @@ I'm always open to collaborating on innovative projects and exploring new techno
 # Contribution Snake
 
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/AdityaSh11-11/AdityaSh11-11/output/github-contribution-grid-snake-dark.svg"/>
-
+  <img src="https://raw.githubusercontent.com/AdityaSh11-11/AdityaSh11-11/output/github-contribution-grid-snake-dark.svg">
 </p>
 
 > Requires the Snake GitHub Action.
